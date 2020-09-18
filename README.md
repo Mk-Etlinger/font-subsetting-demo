@@ -1,21 +1,21 @@
 # Font Subsetting
 
 ## Requirements
-Python library [FontTools](https://github.com/fonttools/fonttools)
-[Wakamai Fondue](https://wakamaifondue.com/)
-[Unicode Range Spec](https://drafts.csswg.org/css-fonts-3/#unicode-range-desc)
-[pyftsubset docs](https://rsms.me/fonttools-docs/subset.html)
+* Python library [FontTools](https://github.com/fonttools/fonttools)
+* [Wakamai Fondue](https://wakamaifondue.com/)
+* [Unicode Range Spec](https://drafts.csswg.org/css-fonts-3/#unicode-range-desc)
+* [pyftsubset docs](https://rsms.me/fonttools-docs/subset.html)
 
 ## Resources
-[harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs)
-[glyphanger](https://github.com/filamentgroup/glyphhanger)
-[google fonts](https://developers.google.com/fonts/docs/getting_started)
-[caniuse](https://caniuse.com/?search=unicode-range)
-[What Every Dev Should Know About Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/#2-basic-unicode-terms)
-[Creating Font Subsets](https://markoskon.com/creating-font-subsets/)
-[2 stage font loading](https://www.zachleat.com/web/css-tricks-web-fonts/)
-[css tricks unicode range](https://css-tricks.com/almanac/properties/u/unicode-range/)
-[Font subsetting talk](https://www.youtube.com/watch?v=eEO77MiGOCc)
+* [harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs)
+* [glyphanger](https://github.com/filamentgroup/glyphhanger)
+* [google fonts](https://developers.google.com/fonts/docs/getting_started)
+* [caniuse](https://caniuse.com/?search=unicode-range)
+* [What Every Dev Should Know About Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/#2-basic-unicode-terms)
+*[Creating Font Subsets](https://markoskon.com/creating-font-subsets/)
+*[2 stage font loading](https://www.zachleat.com/web/css-tricks-web-fonts/)
+*[css tricks unicode range](https://css-tricks.com/almanac/properties/u/unicode-range/)
+*[Font subsetting talk](https://www.youtube.com/watch?v=eEO77MiGOCc)
 
 ## Commands for building each font via pyftsubset(in example/)
 
