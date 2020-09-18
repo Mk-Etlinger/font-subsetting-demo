@@ -12,10 +12,10 @@
 * [google fonts](https://developers.google.com/fonts/docs/getting_started)
 * [caniuse](https://caniuse.com/?search=unicode-range)
 * [What Every Dev Should Know About Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/#2-basic-unicode-terms)
-*[Creating Font Subsets](https://markoskon.com/creating-font-subsets/)
-*[2 stage font loading](https://www.zachleat.com/web/css-tricks-web-fonts/)
-*[css tricks unicode range](https://css-tricks.com/almanac/properties/u/unicode-range/)
-*[Font subsetting talk](https://www.youtube.com/watch?v=eEO77MiGOCc)
+* [Creating Font Subsets](https://markoskon.com/creating-font-subsets/)
+* [2 stage font loading](https://www.zachleat.com/web/css-tricks-web-fonts/)
+* [css tricks unicode range](https://css-tricks.com/almanac/properties/u/unicode-range/)
+* [Font subsetting talk](https://www.youtube.com/watch?v=eEO77MiGOCc)
 
 ## Commands for building each font via pyftsubset(in example/)
 
