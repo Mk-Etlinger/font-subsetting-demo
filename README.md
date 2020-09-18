@@ -16,7 +16,7 @@ Python library [FontTools](https://github.com/fonttools/fonttools)
 [css tricks unicode range](https://css-tricks.com/almanac/properties/u/unicode-range/)
 [Font subsetting talk](https://www.youtube.com/watch?v=eEO77MiGOCc)
 
-## Commands for building each font via pyftsubset
+## Commands for building each font via pyftsubset(in example/)
 
 ### Basic Latin
 ```bash
